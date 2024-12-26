@@ -1,0 +1,9 @@
+# 共通
+node_modules/
+
+
+# バックエンド用
+backend/node_modules/
+
+# フロントエンド用
+frontend/node_modules/
